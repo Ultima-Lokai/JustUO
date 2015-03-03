@@ -191,6 +191,7 @@
     <Compile Include="Custom Systems\Compendium\PageElements\LabelElement.cs" />
     <Compile Include="Custom Systems\Compendium\PageElements\TiledImageElement.cs" />
     <Compile Include="Custom Systems\Compendium\SaveAs.cs" />
+    <Compile Include="Custom Systems\PenOfWisdom.cs" />
     <Compile Include="Custom Systems\Referral Rewards\ReferralRewardItems.cs" />
     <Compile Include="Custom Systems\Referral Rewards\ReferralRewardsGump.cs" />
     <Compile Include="Custom Systems\Referral Rewards\ReferralRewardsStone.cs" />
